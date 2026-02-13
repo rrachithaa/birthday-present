@@ -1,2 +1,2 @@
 # birthday-present
-birthday present for my sister
+My first Git Repository
